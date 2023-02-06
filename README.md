@@ -5,3 +5,5 @@
 ## [NSO201 Course Information - FEB-6 to 9 VILT EST](https://docs.google.com/spreadsheets/d/10IjOamOZ4zk-fvzvVRnVtn-LaNV-VvDJ9_QLlWCZwCk/edit?usp=sharing)
 
 ## [Cisco NSO Helpful Links (Google Doc)](https://docs.google.com/document/d/1dTGRx88uR-L1Ivlynb-9a4cDjnyS_0-wYkltnnT7f0I/edit?usp=sharing)
+
+## [Mid Course Feedback NSO201 FEB-6 to 9 VILT EST (NextCloud Form)](https://nextcloud.itsulu.com/apps/forms/s/D2BtaXyzSKdDHbN5NtGC7iSK)
