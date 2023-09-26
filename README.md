@@ -5,6 +5,6 @@
 
 ## [Cisco NSO Helpful Links (Google Doc)](https://docs.google.com/document/d/1dTGRx88uR-L1Ivlynb-9a4cDjnyS_0-wYkltnnT7f0I/edit?usp=sharing)
 
-<!-- ## [Mid Course Feedback NSO201 FEB-13 to 16 VILT EST TBA (NextCloud Form)](https://nextcloud.itsulu.com/apps/forms/s/B9NipeMXADQDF2Yyb9tbRaCo)
+## [Mid Course Feedback NSO201 SEP-25 to 28 VILT CDT (Google Form)](https://forms.gle/2oo4Uaft3TncmMGt8)
 
 <!-- Comment -->
