@@ -5,6 +5,6 @@
 
 ## [Cisco NSO Helpful Links (Google Doc)](https://docs.google.com/document/d/1dTGRx88uR-L1Ivlynb-9a4cDjnyS_0-wYkltnnT7f0I/edit?usp=sharing)
 
-<!-- ## [Mid Course Feedback NSO201 SEP-25 to 28 VILT CDT (Google Form)](https://forms.gle/Q9hp8LWeMhk9gEGN8) -->
+## [Mid Course Feedback NSO201 2024-APR-8 to 11 Melbourne, Australia (Google Form)](https://forms.gle/Yw3ZD76rjmeJgZi48)
 
 <!-- Comment -->
