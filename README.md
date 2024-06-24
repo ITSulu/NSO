@@ -1,4 +1,4 @@
-# NSO201 2024-JUN-3 to 6 VILT CDT
+# NSO201 JUN-24 to 27 Herndon, VA
 ## [NSO Essentials for Programmers and Network Architects (NOS201) Introduction - Nicholas Riegel](https://docs.google.com/presentation/d/1PBBu-1x00fgEq_4kzUmipPx-v7Efm9cia0gQdb6JuGI/edit?usp=sharing)
 
 ## [NSO201 Course Information 2024-JUN-24 to 27 Herndon, VA](https://docs.google.com/spreadsheets/d/101Qee5rXNB3XhrPnbE1dQmbijTkGIq64p9PIAaYbQOA/edit?usp=sharing)
