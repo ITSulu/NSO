@@ -5,6 +5,6 @@
 
 ## [Cisco NSO Helpful Links (Google Doc)](https://docs.google.com/document/d/1dTGRx88uR-L1Ivlynb-9a4cDjnyS_0-wYkltnnT7f0I/edit?usp=sharing)
 
-<!-- ## [Mid Course Feedback NSO201 2024-JUN-24 to 27 Herndon, VA (Google Form)](https://forms.gle/S5prk7kDWiugoVgY8)
+## [Mid Course Feedback NSO201 2024-JUN-24 to 27 Herndon, VA (Google Form)](https://forms.gle/S5prk7kDWiugoVgY8)
 
 <!-- Comment -->
